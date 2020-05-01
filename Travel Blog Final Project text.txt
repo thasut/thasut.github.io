@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            p {
+                color:green;
+            }
+            body {
+                background-color:pink;
+            }
+            h1 {
+                color:green;
+            }
+            h2 {
+                background-color: rgb(44, 245, 228);
+            }
+            #intro {
+                background-color:yellow;
+            }
+            .title {
+                background-color: rgb(13, 255, 41);
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Travel to Myanmar</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Shwedagon_Pagoda_at_night_from_the_East_side.jpg/1024px-Shwedagon_Pagoda_at_night_from_the_East_side.jpg" width="500">
+        <p id="intro">In <strong>Myanmar</strong> there are lots of beautiful places where you will find amazing<br> and warm welcoming locals. There are a lot of beautiful places to vist to too. It's<br> amazing how technology has developed Myanmar from its great old days into a new<br> and urban place that it is today. I am a citizen of Myanmar and today I<br> would like to show/tell you a list of Myanmar's greatest places to go to.</p>
+        
+        <h2>Top 10 best places to visit in Myanmar</h2>
+        <ol>
+            <b><li class="title">Bagan</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ruins_of_Bagan%2C_1999.jpg" alt="a picture of bagan" width="450">
+            <p>Bagan is the number one attraction in Myanmar and for good reason you simply cannot skip it! Home to over 2,000 enchanting stupas spread across the endless countryside, it's a true feast for the eyes. The best part about Bagan is that, unlike other archaeological sites like it, it's still fairly untouched by tourists. But it's catching on, so don't leave it too long!
+
+<p>The best way to experience the utter magic of Bagan is by taking a hot air balloon ride at sunrise. There are so many stupas you simply cannot appreciate them all from ground level.
+
+<p>Pagodas aside, you can explore one of Bagan's local markets - such as the Mani Sithu Market, cycle past the temples on a bike or e-bike, and shop for high-quality lacquer products. And if it's a foodie experience you're after, you won't be disappointed in Bagan; you'll find no shortage of Asian cuisine here - not just Burmese but Chinese, Thai, Indian, and even Tibetan, so come hungry!</p>
+            <b><li class="title">Yangon</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2016_Rangun%2C_Ratusz_%2804%29.jpg/1024px-2016_Rangun%2C_Ratusz_%2804%29.jpg" alt="a picture of the city hall in Yangon" width="450">
+            <p>Yangon, formerly known as Rangoon, is the largest city in all of Myanmar. There's so much to see and do in this exciting and colorful metropolis - from Buddhist monuments to scenic parks and lakes. Take a stroll through the streets, and you'll discover so much history. Colonial buildings, museums, art galleries, and markets adorn just about every corner of the city.
+
+<p>Take your time soaking up the essence of Yangon at many of its religious sites. Visiting Shwedagon Pagoda - a towering golden steeple - at sunset is a truly awe-inspiring experience. Discover Buddha hairs at Botataung Pagoda, visit a fresh local market and shop for souvenirs at Bogyoke Aung San Market. However you choose to spend your time in Yangon, you cannot leave without indulging in the city's mouth-watering Burmese street food! The samosa salad and street pancakes are definitely something to write home about.</p>
+            <b><li class="title">Mandalay</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Mandalay_Bay_Hotel_Las_Vegas_%28July_15_2008%29.jpg" alt="a picture of Mandalay Bay located in Mandalay" width="450">
+            <p>Set at the foot of Mandalay Hill, Myanmar's second-largest city is a charming yet convoluted place. Formerly the old royal capital, it's filled with bustling markets, monasteries, Indian temples, mosques, and hillside pagodas that rightfully place it as the center of Burmese culture.
+
+<p>There's a fair amount of ground to cover in Mandalay, but if you have time, you should spend a few hours exploring the Royal Palace of Mandalay - it's home to 40 different buildings! Climbing up Yankin Hill, seeing the world's largest book at Kuthodaw Pagoda, and watching a show at the Mandalay Marionettes are also great ways to experience Mandalay.
+
+<p>Other worthwhile Mandalay attractions include the Shwe In Bin Kyaung monastery, Mahamuni Paya, and Ta Moke Shwe Gu Gyi - the country's third most significant archaeological site, after Mrauk-U and Bagan.</p>
+            <b><li class="title">Inle Lake</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/1024px-Inle_Lake_%28Myanmar%29.jpg" alt="a picture of a lake and a house with coconut trees taken in Inle Lake" width="450">
+            <p>The Lake Inle region is a picturesque place famous for its unusual floating villages, pretty gardens, and glorious temples. As there are no roads here, you'll get around by wooden boat.
+
+<p>Staying in Lake Inle is a great way to immerse yourself entirely in local life on the lake. Stay in over-water villas located on stilts above the water, explore thousand-year-old pagodas, and see over 200 monasteries scattered around the lake - don't miss the Jumping Cat Monastery!
+
+<p>Other attractions worth visiting in Lake Inle include the floating market at Ywama village and the gorgeous floating gardens of Nampan village. A traditional cooking class at Mr. Toe's restaurant is a great way to bring a piece of Myanmar home with you.</p>
+            <b><li class="title">Ngapali</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ngapali_Beach_view.jpg/800px-Ngapali_Beach_view.jpg" alt="a picture of coconut trees lined up near the beach motels together with the view of the shore" width="450">
+            <p>Ngapali is the most popular beach destination in Myanmar. Located on the spectacular Bay of Bengal, this stretch of coastline boasts a total of three bays dotted with fishing villages, beaches, and coconut palm. It's all about the slow life here in Ngapalai - swim, sunbathe, sleep, repeat.
+
+<p>When you've had your fair share of relaxation, you can go fishing, kayaking, snorkeling, or scuba diving to see the exotic fish in the bay. Back on land, there are golf courses, fishing villages, and seafood restaurants to discover on foot, by bicycle, or motorbike. Or you can simply relax and indulge in the beach happy hour specials. Don't miss the chance to climb or drive up to Tilawkasayambhu Buddha at the top of the hill - it offers the most exceptional views over the bay!</p>
+            <b><li class="title">Mrauk U</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/MysticalMraukU.jpg" alt="a picture of hills in Mrauk U" width="450">
+            <p>Mrauk U - once known as Mrohaung - is an abandoned city with strong archaeological importance. While its temples are similar to Bagan's, they're smaller and a lot more modern - made from stone instead of brick. Surrounded by still-inhabited rural villages, rice paddies, and a panorama of rolling countryside, these temple ruins which were once part of a powerful Arakan kingdom are a sight to behold.
+
+<p>While Mrauk U was a thriving trading post during the First Anglo-Burmese War, it was relocated to Sittwe after the war ended, leaving Mrauk U behind. Since then, the temples and the city itself have been largely forgotten, left to crumble into dust. The isolation is what makes Mrauk U charming though; only 5,000 tourists make it here every year - so you're likely to get the temples pretty much all to yourself.</p>
+            <b><li class="title">Bago</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shwethalyaungbuddhabago.jpg" alt="a picture of the enormous reclining statue of Buddha" width="450">
+            <p>Bago, also known as Pegu, was once the capital of the Mon Kingdom. While it doesn't top many modern guidebooks already published, this city is packed full of history and authentic everyday culture. See the ruins of the ancient palace, admire the many nearby pagodas, or witness the traditions of the rice-making industry. As a new airport is set to open in the region in 2022, you should go now before the city is overrun by tourists!
+
+<p>The appeal of Bago is its authentic, non-touristy feel. There are only a select few hotels licensed to welcome foreigners, and the restaurants offer a truly local experience with traditional curries and typical Burmese dishes. The local market is also a great spot to soak up the sights and sounds of everyday life in Bago. Other attractions you don't want to miss include Shwethalyaung, an enormous reclining statue of Buddha, and Shwemawdaw Pagoda, the 'Golden God Temple.'</p>
+            <b><li class="title">Kyaiktiyo</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rocher_d%27or_0003a.jpg/1024px-Rocher_d%27or_0003a.jpg" alt="a picture from afar of the kyaiktiyo view" width="450">
+            <p>You simply cannot visit Myanmar without planning a trip to Mount Kyaiktiyo, home to the famous golden rock and gilded pagoda - one of the most sacred sites in the country and a popular pilgrimage spot.
+
+<p>This enormous golden rock teeters precariously on the edge of a cliff and is said to be held in place by the hair of Buddha. While this boulder is surely the main attraction, you should also see the Shwedagon Pagoda and the Mahamuni Temple while you're here. Not to mention the enchanting views of the Mon State mountains you'll enjoy from the top of the mountain! You can reach Kyaiktiyo by taking an open-top truck and cable car or by challenging yourself to the four-hour hike to the top. Bear in mind that while you can pay to place a gold leaf onto the rock, this is strictly limited to men only.</p>
+            <b><li class="title">Ngwe Saung</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lover_island.jpg/1024px-Lover_island.jpg" alt="a picture of the island at Ngwe Saung also known as the love Island" width="450">
+            <p>Ngwe Saung is an upmarket beach resort with a seemingly endless stretch of silvery coastline on the Bay of Bengal. More sophisticated than popular Chaung Tha Beach, Ngwe Saung is the sought-after destination for Yangon's rich and famous.
+
+<p>Offering that get-away-from-it-all experience with beautiful white sand and brilliant blue ocean edged by palm trees, Ngwe Saung is simply paradise. Indulge in the slow life and do as much or as little as you like - both are encouraged here. Take a leisurely stroll across the sandbar to Lover's Island at low tide, admire the beachfront pagodas, go snorkeling at Bird Island, and indulge in a fresh seafood dinner at sunset. Don't miss the fire dancing shows at Ume café every evening for your daily dose of vibrant Burmese culture!</p>
+            <b><li class="title">Pyin Oo Lwin</li></b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Kan_Daw_Gyi_Park_Pyin_Oo_Lwin.jpg" alt="a picture of Kandawgyi in Pyin Oo Lwin, a famous garden widely known by all Myanmar people" width="450">
+            <p>Pyin U Lwin - now known as Maymyo - is a scenic hill town tucked between Mandalay and Hsipaw. Dating back to the 19th century, it was once the summer retreat of the British Raj, and the military base of the Indian Army. Due to its location close to the border of China, it also has a distinct Chinese influence. The result? Pyin U Lwin is a multicultural town with an anglicized feel. Think British colonial mansions, Chinese and Hindu temples, and an English cemetery.
+
+<p>Get around on foot or by bike and explore Pyin U Lwin's many cultural and historical attractions. Unlike the rest of Myanmar, this hill town offers so much more than pagodas. Surrounded by botanical gardens, strawberry fields, and coffee bean plantations, you can trek to nearby waterfalls, taste local wine, and indulge your sweet tooth at one of the many Indian-owned sweet shops. Don't miss the National Landmarks Garden, where you can see models of Myanmar's famous landmarks!</p>
+        </ol>
+        
+        
+    </body>
+</html>
